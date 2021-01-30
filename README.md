@@ -51,7 +51,7 @@ a href="# [AmandaSantana704](https://github.com/AmandaSantana704)">
 
 [https://avatars.githubusercontent.com/u/67079361?s=460&u=07355d9284d832b2ac7b14b18dbb525b67d7546f&v=4](https://avatars.githubusercontent.com/u/67079361?s=460&u=07355d9284d832b2ac7b14b18dbb525b67d7546f&v=4)
 
-![Linkedin Badge][https://www.linkedin.com/in/amanda-santos-santana-752a141a4/](https://www.linkedin.com/in/amanda-santos-santana-752a141a4/)
+[Linkedin Badge][https://www.linkedin.com/in/amanda-santos-santana-752a141a4/](https://www.linkedin.com/in/amanda-santos-santana-752a141a4/)
 
 
 
